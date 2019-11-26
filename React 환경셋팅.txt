@@ -1,0 +1,10 @@
+* react.js 에서 Redux  사용 할때 두가지의 의존 모듈 사용  
+  1. redux
+  2. react-redux :  React.js 프로젝트에서 Redux 를 더 편하게 사용 할 수 있게 해준다 
+  
+  npm install --save redux react-redux
+
+* react-router-dom 설치하기 
+  npm install --save react-router-dom
+
+
